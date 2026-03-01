@@ -1,7 +1,7 @@
 Manipuler une collection d’objets Produit en utilisant une interface générique.
 - Structure
  - Classe Produit
-    -Attributs :
+    - Attributs :
         id
         nom
         marque
