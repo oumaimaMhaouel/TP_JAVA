@@ -2,12 +2,12 @@ Manipuler une collection d’objets Produit en utilisant une interface génériq
 - Structure
  - Classe Produit
     - Attributs :
-        id
-        nom
-        marque
-        prix
-        description
-        nombreEnStock
+        id;
+        nom;
+        marque;
+        prix;
+        description;
+        nombreEnStock;
 
 - Interface Générique IMetier<T>
 
