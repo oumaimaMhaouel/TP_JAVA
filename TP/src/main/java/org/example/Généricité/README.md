@@ -20,4 +20,4 @@ Supprimer un produit
 Quitter le programme
 Exemple d’exécution :
 
-image
+<img width="821" height="381" alt="image" src="https://github.com/user-attachments/assets/fb88af58-17e4-438a-998e-8c868e46e69e" />
