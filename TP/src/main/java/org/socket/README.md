@@ -41,3 +41,5 @@ Après chaque réponse, le serveur renvoie à nouveau `Veuillez saisir votre mes
 
 - Les messages côté console serveur (connexion, IP, thread, messages reçus) sont en français, comme dans le code.
 - En cas de déconnexion brutale ou d’erreur I/O, le handler affiche `Client déconnecté` et ferme le socket.
+
+![img_1.png](img_1.png)
